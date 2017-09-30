@@ -1,0 +1,257 @@
+body{
+	padding: 0;
+	margin: 0;
+	line-height: 150%;
+	background-image: url("../images/cork-wallet.png");
+	font-family: "gerorgia","Times New Roman", Times, serif;
+	font-size:18px;
+
+}
+
+/*Header*/
+header {
+	        color: #ffffff;
+    background-color: #ffffff;
+    margin: -5% 0% 0% 12px;
+    font-size: 250%;
+    width: 27%;
+    padding-right: 80%;
+
+
+
+}
+
+
+h1 {     padding: 20px 6px 20px 6px;
+    margin: 27%;
+    width: 293px;
+    font-size: 84%;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border: 2px solid #dddddd;
+	
+}
+
+h2 {
+	color: #4aaaa5;
+	font-size: 250%;
+	margin: 0% 0% 1% 2%;
+    padding: 1%;
+    
+}
+
+#h2border {
+	border-bottom: 2px solid #cccccc;
+	margin-bottom: 5%;
+	
+
+
+}
+
+/*Includes profile picture, hyplinks, paragraph*/
+.container {
+	width: 64%;	
+	height: 506px; 
+	margin: -5% 0% 0% 8%;
+	color:#000000;
+	background-color:#ffffff; 
+	border: 2px solid ##dddddd;
+	padding: 9px;
+	padding-bottom: 761px;
+	
+
+	
+}
+
+#portpics{
+	margin-top: -29px;
+	margin-left: 47px;
+	margin-right: -51px;
+}
+
+#Magic,
+#hospital,
+#gfiber,
+#construction,
+#developer {
+	float:left;
+	margin: 14px;
+	width: 39%;
+
+}
+#piclablels{
+	
+}
+
+ #Hangman {
+ 	    width: 41%;
+    	height: 56px;
+    	position:relative;
+    	background-color: #4aaaa5;
+    	color: #ffffff;
+    	margin: -46% 0% 0% -44%;
+}
+
+	
+}
+
+
+#RpgGame {
+	width:39%;
+	height:56px;
+	position:relative;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	
+}
+
+
+#TriviaGame {
+	width:39%;
+	height:56px;
+	position:relative;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	
+}
+
+
+#RutgersInfoWidget {
+	width:39%;
+	height:56px;
+	position:relative;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	
+}
+
+
+#RockPaperScissors {
+	width:39%;
+	height:56px;
+	position:relative;
+	background-color: #4aaaa5;
+	color: #ffffff;
+
+}
+</div>
+
+    
+
+
+#contact-info {
+	    width: 27%;
+    	height: 32px;
+    	margin: -141% -3%;
+    	float: right;
+    	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    	color: #777777;
+    	font-size: .9em;
+
+}
+
+
+#contact{ 
+	float:right;
+	margin-right: 5px;
+
+}
+
+
+#portfolio{ 
+	float:right;
+	margin-right: 20px;
+
+}
+
+
+#about{ 
+	float:right;
+	margin-right: 20px;
+
+
+}
+
+
+#CWM {
+	width: 22%;
+    height: 181px;
+    background-color: #ffffff;
+    float: right;
+    margin: -133% -1% 0% 0%;
+    padding: 0%;
+    border: 2px solid #dddddd;
+
+
+}
+
+h3 {   
+	    color: #4aaaa5;
+    font-size: 25px;
+    padding-left: 8%;
+    padding-bottom: 11%;
+    margin-top: 15px;
+    margin-bottom: -14px;
+
+}
+#h3border {
+	    border-bottom: 2px solid #cccccc;
+    margin-top: -8px;
+	
+}
+
+#social-links {
+	width:201px;
+	padding: 3px;
+	margin-top:19px;
+}
+
+#github {
+	width: 65px;
+	float:right;
+	margin-right:-2px;
+
+
+}
+
+#linkedin {
+	width: 65px;
+	float:right;
+	padding-right:1px;
+
+}
+
+#overflow{
+	width: 58px;
+	margin-top: 4px;
+	float:right;
+	padding-right:5px;
+
+
+}
+
+#positioning { clear:both;
+	max-width:960px;
+	position:fixed;
+	margin:-11px;
+}
+
+#footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:81px;
+   width:100%;
+   background:#666666;
+	border-top:8px solid #4aaaa5;
+}
+
+
+#footertext {
+	font-size: .7em;
+	padding-left:45%;
+	color:#ffffff;
+}
+
+
